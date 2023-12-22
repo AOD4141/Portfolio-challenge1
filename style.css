@@ -1,0 +1,17 @@
+body{background-color: grey;}
+
+
+h1{position: relative;;font-size: 30px;background-color:red;width:200px;height:35px; left:80px;top:-80px;}
+
+.menubar{display:flex;justify-content: flex-end; gap:70px;margin:0px; ;padding:40px; list-style-type:none; background-color: #008000; width: auto;height:20px;font-weight:bold;}
+
+
+
+
+
+
+
+
+
+    
+   
