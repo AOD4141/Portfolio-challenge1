@@ -5,9 +5,12 @@ h1{position: relative;;font-size: 30px;background-color:red;width:200px;height:3
 
 .menubar{display:flex;justify-content: flex-end; gap:70px;margin:0px; ;padding:40px; list-style-type:none; background-color: #008000; width: auto;height:20px;font-weight:bold;}
 
+#About me{display:flex;box-sizing: content-box;background-color: #008000;height:50px;width:auto;border: 2px solid white; font-size:10px;}
 
 
-
+div h2{display:flex; background-color: aqua;justify-content: flex-start;height:150px;}
+.profile{position: relative;left:-5px;top:-140px;align-self: flex-start;font-size: 15px;color:black; padding: 10px;} 
+ 
 
 
 
