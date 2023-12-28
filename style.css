@@ -1,9 +1,12 @@
 body{background-color: grey;}
 
 
-h1{position: relative;;font-size: 30px;background-color:red;width:200px;height:35px; left:80px;top:-80px;}
+h1{position: relative;font-size: 30px;background-color:red;width:200px;height:35px; left:80px;top:-80px;}
 
 .menubar{display:flex;justify-content: flex-end; gap:70px;margin:0px; ;padding:40px;font-size:20px; list-style-type:none; background-color: #008000; width: auto;height:20px;font-weight:bold;}
+
+
+.first-image {width: 1220px;height:180px; float:left; position:relative;top:-85px;float:left; left:-10px; }
 
 .professional-summary {display:flex;justify-content: flex-start;flex-direction: column;background-color: aqua;border: 1px solid black;height:120px;width:auto;font-size: 20px;margin:0px 0px 5px 30px;}
 .professional-summary > p {font-size: 15px;position:relative;top:-20px;}
