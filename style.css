@@ -19,10 +19,12 @@ h3 {position: relative;left:310px;top:-55px;font-size: 30px;}
 .first-application {background-color: #008000;position:relative;float:left;left:-192px;font-size: 25px;top:-500px;border:6px solid green;}
 
 .container-image2{position: relative;}
-.work-image2 {width:320px;height:120px;position: relative;float:left;left:-47px;top:-400px;border:6px solid green;}
-.second-application{position:relative;float:left;left:140px;background-color: #008000;border:6px solid green;width:80px;top:-460px;}
+.work-image2 {width:320px;height:120px;position: relative;float:left;left:-38px;top:-400px;border:6px solid green;}
+.second-application{position:relative;float:left;left:144px;background-color: #008000;border:6px solid green;width:80px;top:-460px;}
 
-
+.container-image3{position: relative;}
+.work-image3{width:320px;height:120px;position: relative;float:left;left:-288px;top:-532px;border:6px solid green;}
+.third-application{position:relative;float:left;left:-620px;background-color: #008000;border:6px solid green;width:90px;top:-460px;}
 
 .Connect {display:flex;justify-content: flex-start;flex-direction: column;background-color:beige;border: 1px solid rgb(147, 45, 45);height:200px;width:auto;font-size: 20px;margin:0px 0px 5px 30px;}
 .Connect > p {font-size: 15px;position:relative;top:-20px;}
