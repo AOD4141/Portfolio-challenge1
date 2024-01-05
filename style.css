@@ -6,7 +6,7 @@ h1{position: relative;font-size: 30px;background-color:pink;width:200px;height:3
 
 .first-background-image {position:relative;}
 .Welcome {position:relative;float:right;right:60px; width:350px;height:30px;padding:10px 10px 10px 10px;background-color: green;color:pink;font-size: 25px;top:-150px;text-align: end; }
-img {width: 1220px;height:180px; float:left; position:relative;top:-85px;float:left; left:-10px; }
+.first-image {width: 1220px;height:180px; float:left; position:relative;top:-85px;float:left; left:-10px; }
 
 .vertical-line{border-left: 6px solid pink;height:70px;position:relative;left:400px;top: -90px;}
 h2{position: relative;left:260px;top:-35px;font-size: 30px;}
@@ -18,10 +18,11 @@ h3 {position: relative;left:310px;top:-55px;font-size: 30px;}
 .work-image{width:660px;height: 250px;position: relative;float:left; left:475px;top:-670px;border: 6px solid green;}
 .first-application {background-color: #008000;position:relative;float:left;left:-192px;font-size: 25px;top:-500px;border:6px solid green;}
 
-.work-image2{width:320px;height:120px;position: relative;float:left;left:-37px;top:-400px;border:6px solid green;}
-.work-image3{width:320px;height:120px;position:relative;float:left;left:-197px;top:-532px;border:6px solid green;}
-.work-image4{width:320px;height:120px;position: relative;float:left;left:475px;top:-523px;border:6px solid green;}
-.work-image5{width:320px;height:120px;position: relative;float:left;left:485px;top:-523px;border: 6px solid green;}
+.container-image2{position: relative;}
+.work-image2 {width:320px;height:120px;position: relative;float:left;left:-47px;top:-400px;border:6px solid green;}
+.second-application{position:relative;float:left;left:140px;background-color: #008000;border:6px solid green;width:80px;top:-460px;}
+
+
 
 .Connect {display:flex;justify-content: flex-start;flex-direction: column;background-color:beige;border: 1px solid rgb(147, 45, 45);height:200px;width:auto;font-size: 20px;margin:0px 0px 5px 30px;}
 .Connect > p {font-size: 15px;position:relative;top:-20px;}
