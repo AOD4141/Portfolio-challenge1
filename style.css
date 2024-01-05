@@ -38,3 +38,8 @@ h3 {position: relative;left:310px;top:-55px;font-size: 30px;}
 h4{width:250px;position: relative;left:230px;top:-455px;font-size:30px;}
 .contact{font-size: 17px;position:relative;top:-610px;text-align:justify;float:right;right:435px;}
 
+.vertical-line4{border-left: 6px solid pink;height:70px;position:relative;left:400px;top: -590px;}
+h5{width:250px;position: relative;top:-510px;left:278px;font-size: 30px;}
+.resume-paragraph{font-size: 17px;position:relative;text-align: justify;top:-670px;right:-435px;}
+.mypdf {position:relative;top:-708px;float:right; right:300px;}
+
