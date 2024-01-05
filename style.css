@@ -2,11 +2,11 @@ body{background-color: grey;}
 
 h1{position: relative;font-size: 30px;background-color:pink;width:200px;height:35px; left:80px;top:-80px;}
 
-.menubar{display:flex;justify-content: flex-end; gap:70px;margin:0px; ;padding:40px;font-size:20px;color:black; list-style-type:none; background-color: #008000; width: auto;height:20px;font-weight:bold;}
+.menubar{display:flex;justify-content: flex-end; gap:70px;margin:0px; ;padding:40px;font-size:20px;color:black; list-style-type:none; background-color: #008000; width: 1130px;height:20px;font-weight:bold;}
 
 .first-background-image {position:relative;}
 .Welcome {position:relative;float:right;right:60px; width:350px;height:30px;padding:10px 10px 10px 10px;background-color: green;color:pink;font-size: 25px;top:-150px;text-align: end; }
-.first-image {width: 1220px;height:180px; float:left; position:relative;top:-85px;float:left; left:-10px; }
+.first-image {width: 1220px;height:180px; position:relative;top:-85px;float:left; left:-10px; }
 
 .vertical-line{border-left: 6px solid pink;height:70px;position:relative;left:400px;top: -90px;}
 h2{position: relative;left:260px;top:-35px;font-size: 30px;}
