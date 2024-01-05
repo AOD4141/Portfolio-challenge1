@@ -34,4 +34,7 @@ h3 {position: relative;left:310px;top:-55px;font-size: 30px;}
 .work-image5{width:320px;height:120px;position: relative;float:left;left:380px;top:-522px;border:6px solid green;}
 .fifth-application{position:relative;float:left;left:50px;background-color: #008000;border:6px solid green;width:90px;top:-460px;}
 
+.vertical-line3{border-left: 6px solid pink;height:70px;position:relative;left:400px;top: -530px;}
+h4{width:250px;position: relative;left:230px;top:-455px;font-size:30px;}
+.contact{font-size: 17px;position:relative;top:-610px;text-align:justify;float:right;right:435px;}
 
