@@ -15,23 +15,28 @@ h2{position: relative;left:260px;top:-35px;font-size: 30px;}
 
 .vertical-line2{border-left: 6px solid pink;height:550px;position:relative;left:400px;top: -120px;}
 h3 {position: relative;left:310px;top:-55px;font-size: 30px;}
-.work-image{width:660px;height: 250px;position: relative;float:left; left:475px;top:-670px;border: 6px solid green;}
+.work-image{width:660px;height: 250px;position: relative;float:left; left:475px;top:-670px;border: 6px solid green;opacity:0.90;}
+.work-image:hover{opacity:0.80;}
 .first-application {background-color: #008000;position:relative;float:left;left:-192px;font-size: 25px;top:-500px;border:6px solid green;}
 
 .container-image2{position: relative;}
-.work-image2 {width:320px;height:120px;position: relative;float:left;left:-38px;top:-400px;border:6px solid green;}
+.work-image2 {width:320px;height:120px;position: relative;float:left;left:-38px;top:-400px;border:6px solid green;opacity:0.90;}
+.work-image2:hover{opacity:0.80;}
 .second-application{position:relative;float:left;left:144px;background-color: #008000;border:6px solid green;width:80px;top:-470px;}
 
 .container-image3{position: relative;}
-.work-image3{width:320px;height:120px;position: relative;float:left;left:-288px;top:-532px;border:6px solid green;}
+.work-image3{width:320px;height:120px;position: relative;float:left;left:-288px;top:-532px;border:6px solid green;opacity:0.90;}
+.work-image3:hover{opacity:0.80;}
 .third-application{position:relative;float:left;left:-620px;background-color: #008000;border:6px solid green;width:90px;top:-470px;}
 
 .container-image4{position:relative;}
-.work-image4{width:320px;height:120px;position: relative;float:left;left:476px;top:-522px;border:6px solid green;}
+.work-image4{width:320px;height:120px;position: relative;float:left;left:476px;top:-522px;border:6px solid green;opacity:0.90;}
+.work-image4:hover{opacity:0.80;}
 .fourth-application{position:relative;float:left;left:150px;background-color: #008000;border:6px solid green;width:90px;top:-460px;}
 
 .container-image5{position:relative;}
-.work-image5{width:320px;height:120px;position: relative;float:left;left:380px;top:-522px;border:6px solid green;}
+.work-image5{width:320px;height:120px;position: relative;float:left;left:380px;top:-522px;border:6px solid green;opacity:0.90;}
+.work-image5:hover{opacity:0.80;}
 .fifth-application{position:relative;float:left;left:50px;background-color: #008000;border:6px solid green;width:90px;top:-460px;}
 
 .vertical-line3{border-left: 6px solid pink;height:70px;position:relative;left:400px;top: -530px;}
