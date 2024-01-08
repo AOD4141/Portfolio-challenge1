@@ -27,16 +27,16 @@ h3 {position: absolute;left:310px;top:400px;font-size: 30px;}
 .third-application{position:relative;float:right;right:-193px;background-color: #008000;border:6px solid green;width:90px;top:700px;}
 
 .container-image4{position:absolute;}
-.work-image4{width:320px;height:120px;position: absolute;float:left;left:0px;top:10px;border:6px solid green;opacity:0.90;}
+.work-image4{width:320px;height:120px;position: absolute;float:right;right:393px;top:830px;border:6px solid green;opacity:0.90;}
 .work-image4:hover{opacity:0.80;}
-.fourth-application{position:relative;float:left;left:0px;background-color: #008000;border:6px solid green;width:90px;top:10px;}
+.fourth-application{position:relative;float:right;right:45px;background-color: #008000;border:6px solid green;width:90px;top:840px;}
 
-/* .container-image5{position:relative;}
-.work-image5{width:320px;height:120px;position: relative;float:left;left:380px;top:-522px;border:6px solid green;opacity:0.90;}
+.container-image5{position:absolute;}
+.work-image5{width:320px;height:120px;position: absolute;float:right;right:52px;top:830px;border:6px solid green;opacity:0.90;}
 .work-image5:hover{opacity:0.80;}
-.fifth-application{position:relative;float:left;left:50px;background-color: #008000;border:6px solid green;width:90px;top:-460px;}
+.fifth-application{position:relative;float:right;right:-393px;background-color: #008000;border:6px solid green;width:90px;top:845px;}
 
-.vertical-line3{border-left: 6px solid pink;height:70px;position:relative;left:400px;top: -530px;}
+/* .vertical-line3{border-left: 6px solid pink;height:70px;position:relative;left:400px;top: -530px;}
 h4{width:250px;position: relative;left:230px;top:-455px;font-size:30px;}
 .contact{font-size: 17px;position:relative;top:-610px;text-align:justify;float:right;right:435px;}
 
@@ -44,4 +44,4 @@ h4{width:250px;position: relative;left:230px;top:-455px;font-size:30px;}
 h5{width:250px;position: relative;top:-510px;left:278px;font-size: 30px;}
 .resume-paragraph{font-size: 17px;position:relative;text-align: justify;top:-670px;right:-435px;}
 .mypdf {position:relative;top:-708px;float:right; right:300px;}
- */ */ */ */ */ */
+ */ */ */ */ */ */ */
