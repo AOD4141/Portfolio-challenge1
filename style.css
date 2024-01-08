@@ -1,40 +1,37 @@
 body{background-color: grey;}
 
-h1{position: relative;font-size: 30px;background-color:pink;width:200px;height:35px; left:80px;top:-80px;}
+.menubar{width: 100%;height:50px;position:absolute;display:flex;justify-content: flex-end;float: left;left:-30px;top:-10px;gap:70px;margin:0px; ;padding: 50px 30px 10px 0px;font-size:20px;color:black; list-style-type:none; background-color: #008000; font-weight:bold;}
 
-.menubar{display:flex;justify-content: flex-end; gap:70px;margin:0px; ;padding:40px;font-size:20px;color:black; list-style-type:none; background-color: #008000; width: 1130px;height:20px;font-weight:bold;}
+.first-image {position:absolute;width: 100%;height:180px;top:100px;float:left; left:0px; }
+.main{position:relative;font-size: 15px;background-color:pink;width:200px;height:35px; left:100px;top:30px;text-align: start;}
+.Welcome {position:relative;float:right;right:60px; width:350px;height:30px;padding:10px 10px 10px 10px;background-color: green;color:pink;font-size: 25px;top:120px;text-align: end; }
 
-.first-background-image {position:relative;}
-.Welcome {position:relative;float:right;right:60px; width:350px;height:30px;padding:10px 10px 10px 10px;background-color: green;color:pink;font-size: 25px;top:-150px;text-align: end; }
-.first-image {width: 1220px;height:180px; position:relative;top:-85px;float:left; left:-10px; }
+.vertical-line{border-left: 6px solid pink;height:70px;position:absolute;left:400px;top: 300px;}
+h2{position: absolute;left:260px;top:285px;font-size: 30px;}
+.profile {font-size: 17px;position:absolute;top: 290px;text-align: left;float:right;right:45px;justify-content: right;inline-size: 680px;}
 
-.vertical-line{border-left: 6px solid pink;height:70px;position:relative;left:400px;top: -90px;}
-h2{position: relative;left:260px;top:-35px;font-size: 30px;}
-.profile {font-size: 17px;position:relative;top: -100px;text-align: left;float:right;right:45px;justify-content: right;inline-size: 680px;}
-
-
-.vertical-line2{border-left: 6px solid pink;height:550px;position:relative;left:400px;top: -120px;}
-h3 {position: relative;left:310px;top:-55px;font-size: 30px;}
-.work-image{width:660px;height: 250px;position: relative;float:left; left:475px;top:-670px;border: 6px solid green;opacity:0.90;}
+  .vertical-line2{border-left: 6px solid pink;height:550px;position:absolute;left:400px;top: 420px;}
+h3 {position: absolute;left:310px;top:400px;font-size: 30px;}
+.work-image{width:660px;height: 250px;position: absolute;float:left; left:85px;top:0px;border: 6px solid green;opacity:0.90;}
 .work-image:hover{opacity:0.80;}
-.first-application {background-color: #008000;position:relative;float:left;left:-192px;font-size: 25px;top:-500px;border:6px solid green;}
+.first-application {background-color: #008000;position:relative;float:left;left:90px;font-size: 25px;top:170px;border:6px solid green;}  
 
-.container-image2{position: relative;}
-.work-image2 {width:320px;height:120px;position: relative;float:left;left:-38px;top:-400px;border:6px solid green;opacity:0.90;}
+.container-image2{position: absolute;}
+.work-image2 {width:320px;height:120px;position: absolute;float:right;right:393px;top:690px;border:6px solid green;opacity:0.90;}
 .work-image2:hover{opacity:0.80;}
-.second-application{position:relative;float:left;left:144px;background-color: #008000;border:6px solid green;width:80px;top:-470px;}
+.second-application{position:relative;float:right;right:250px;background-color: #008000;border:6px solid green;width:80px;top:700px;}
 
-.container-image3{position: relative;}
-.work-image3{width:320px;height:120px;position: relative;float:left;left:-288px;top:-532px;border:6px solid green;opacity:0.90;}
+.container-image3{position: absolute;}
+.work-image3{width:320px;height:120px;position: absolute;float:right;right:52px;top:690px;border:6px solid green;opacity:0.90;}
 .work-image3:hover{opacity:0.80;}
-.third-application{position:relative;float:left;left:-620px;background-color: #008000;border:6px solid green;width:90px;top:-470px;}
+.third-application{position:relative;float:right;right:-193px;background-color: #008000;border:6px solid green;width:90px;top:700px;}
 
-.container-image4{position:relative;}
-.work-image4{width:320px;height:120px;position: relative;float:left;left:476px;top:-522px;border:6px solid green;opacity:0.90;}
+.container-image4{position:absolute;}
+.work-image4{width:320px;height:120px;position: absolute;float:left;left:0px;top:10px;border:6px solid green;opacity:0.90;}
 .work-image4:hover{opacity:0.80;}
-.fourth-application{position:relative;float:left;left:150px;background-color: #008000;border:6px solid green;width:90px;top:-460px;}
+.fourth-application{position:relative;float:left;left:0px;background-color: #008000;border:6px solid green;width:90px;top:10px;}
 
-.container-image5{position:relative;}
+/* .container-image5{position:relative;}
 .work-image5{width:320px;height:120px;position: relative;float:left;left:380px;top:-522px;border:6px solid green;opacity:0.90;}
 .work-image5:hover{opacity:0.80;}
 .fifth-application{position:relative;float:left;left:50px;background-color: #008000;border:6px solid green;width:90px;top:-460px;}
@@ -47,4 +44,4 @@ h4{width:250px;position: relative;left:230px;top:-455px;font-size:30px;}
 h5{width:250px;position: relative;top:-510px;left:278px;font-size: 30px;}
 .resume-paragraph{font-size: 17px;position:relative;text-align: justify;top:-670px;right:-435px;}
 .mypdf {position:relative;top:-708px;float:right; right:300px;}
-
+ */ */ */ */ */ */
