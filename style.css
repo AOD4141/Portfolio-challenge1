@@ -9,6 +9,7 @@ ul li a{color:pink;}
 .vertical-line{border-left: 6px solid pink;height:70px;position:absolute;left:400px;top: 300px;}
 h2{position: absolute;left:260px;top:285px;font-size: 30px;}
 .profile {font-size: 17px;position:absolute;top: 290px;text-align: left;float:right;right:45px;justify-content: right;inline-size: 680px;}
+.avatar-image{position:absolute;width:200px;height:260px;top:290px;border-radius:38%;float:left;left:60px;}
 
   .vertical-line2{border-left: 6px solid pink;height:550px;position:absolute;left:400px;top: 420px;}
 h3 {position: absolute;left:310px;top:400px;font-size: 30px;}
