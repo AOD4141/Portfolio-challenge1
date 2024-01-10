@@ -18,6 +18,14 @@ Portfolio is a challenge that is intended to help me show all my projects, conta
 
 About me, Work, Contact and Resume.
 
+### Some of the content of the Portfolio include:
+
+* About me
+* Work
+* Contact
+* Resume
+
+
 ## Link to website
 
 https://aod4141.github.io/Portfolio-challenge1/
